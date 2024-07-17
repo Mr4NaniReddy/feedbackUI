@@ -1,0 +1,12 @@
+
+
+.bg-warning-opacity{
+    background-color: rgba(202, 181, 181, 0.3); 
+}
+
+
+.rating:hover {
+    cursor: pointer; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
